@@ -1,0 +1,188 @@
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=message-id:mime-version:to:from:subject:date:importance;
+        bh=KFkSaY/G/HdcpkYx7asnzulFJpXmjt5v3t6fznDcn1A=;
+        b=LAEJOqBeEP3Rz3ADOezgbWPsHxX5p6jnwgcM3YpGDnLxgvxYkQ6gwy7SeUsk25KWKe
+         zX68uy0NhBaqeeP1m4oz3abG8SQVOtxX+JZDFA8BXNEJ+vQ63CyCzp0UFKctmnshcjQX
+         4/FxnzevcQBiKsEUyc0cttDjZIY4luJc/tuLYDzZqHeQOaNtZ54n0B/ib3ifglfznQds
+         2bcUv+DxOZ4RLLTJAGHwPRiGiAzzHV0Gdu8zC2Jyek5GJWW6GeD1lvOuhhY1ngK4wVrU
+         4LF0SaI/jgTTXiBkztYSjMWkg7MIi/8ykx3ozSsdMYNjS493QT0ecEaGvsV9e3cgjCxQ
+         R+2A==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:message-id:mime-version:to:from:subject:date
+         :importance;
+        bh=KFkSaY/G/HdcpkYx7asnzulFJpXmjt5v3t6fznDcn1A=;
+        b=snkzjaQwrmgV64GMQ/3oePW5sIfR+rzaszLIVxYFVP7DMI+/8IHKO2rYn3HrvZRMVw
+         J4wO/UWRvPjPhF4g7M64agn7lINT9zf9JwVRM1rDicmVTaPKzDJ25sxWhCQGMkP4/0ub
+         ZxThrSYQDskNydMGp1G6XROK4nsASLbYntiJMUDhaUfzFqhrohn4VhHdTL2lUsB7p6+K
+         JP4eRzLoLwp7rPrP3UlU3xg5Dgsbzv2v0mSI8z8gM88lhZaGS31JyUlNegguUSnJ7l0F
+         ffSPU+iGsdoFjT/uVv45nWYeFCymNPqAoDVM7hDU/dOAHMwlUzSyYc2Oa1IDIQUxuOVy
+         fqlA==
+X-Gm-Message-State: APzg51BbPPJaZcnzX0sP5yNNdX/V1D6tk2WaSeta6PZPuCrAYp+Hjykh
+	TOKCYqkfHotiMh5Tv319lFCYOiCr
+X-Google-Smtp-Source: ANB0VdZBTDD0EZaTgUG+YiJ34hjuYEINYCH06gpbb94YApCLFWbMw02DRQSPyuusAPQ8C5Ogj9vGNw==
+X-Received: by 2002:a62:9f4c:: with SMTP id g73-v6mr13287494pfe.142.1535679873820;
+        Thu, 30 Aug 2018 18:44:33 -0700 (PDT)
+Return-Path: <waiyanmyint2102@gmail.com>
+Received: from ?IPv6:::ffff:192.168.1.100? ([103.73.237.125])
+        by smtp.gmail.com with ESMTPSA id o10-v6sm25649674pfk.76.2018.08.30.18.44.31
+        for <bloodzero750@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 30 Aug 2018 18:44:33 -0700 (PDT)
+Message-ID: <5b889d81.1c69fb81.33a3b.2205@mx.google.com>
+MIME-Version: 1.0
+To: "bloodzero750@gmail.com" <bloodzero750@gmail.com>
+From: Wai Yan Myint <waiyanmyint2102@gmail.com>
+Subject: Problems  of youths today 
+Date: Thu, 30 Aug 2018 18:44:20 -0700
+Importance: normal
+X-Priority: 3
+Content-Type: multipart/alternative;
+	boundary="_44427B8A-8E92-4F20-A79C-A631E75ECFAD_"
+
+--_44427B8A-8E92-4F20-A79C-A631E75ECFAD_
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="utf-8"
+
+Problems=C2=A0 of youths today=20
+Tuesday, August 28, 2018
+8:15 AM
+=C2=A0
+o Part-time job and money problems
+o Communication problems
+o Problems between parents and youth
+o Problems of lack of adventure
+o Educational problems
+=C2=A0
+Sent from Mail for Windows 10
+
+
+--_44427B8A-8E92-4F20-A79C-A631E75ECFAD_
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="utf-8"
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office" xmlns:w=3D"urn:sc=
+hemas-microsoft-com:office:word" xmlns:m=3D"http://schemas.microsoft.com/of=
+fice/2004/12/omml" xmlns=3D"http://www.w3.org/TR/REC-html40"><head><meta ht=
+tp-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8"><meta name=
+=3DGenerator content=3D"Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Calibri Light";
+	panose-1:2 15 3 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:1318264908;
+	mso-list-template-ids:-1;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:"Courier New";
+	mso-bidi-font-family:"Times New Roman";}
+@list l0:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+--></style></head><body lang=3DEN-US link=3Dblue vlink=3D"#954F72"><div cla=
+ss=3DWordSection1><p style=3D'margin:0in;margin-bottom:.0001pt'><span style=
+=3D'font-size:20.0pt;font-family:"Calibri
+----- Message truncated -----
